@@ -1,6 +1,6 @@
 ---
 title: "Johnny Lee's Personal Website"
-description: ""
+description: "Johnny Lee's Personal Website"
 draft: false
 ---
 

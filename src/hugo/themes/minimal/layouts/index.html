@@ -4,7 +4,6 @@
     <div class="intro">
         {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
         <h1>{{ .Title }}</h1>
-        <h3>{{ markdownify .Description }}</h3>
         {{ with .Content }} <div class="homepage-content text-align">{{ . }}</div> {{ end }}
     </div>
 </main>
