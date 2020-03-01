@@ -15,7 +15,7 @@ publishDir = "../public_www/"
     font = "Roboto" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["go", "python3", "R", "sql"]
+    highlightLanguages = ["go", "python", "r", "sql"]
 
 [[menu.main]]
     url = "/"
