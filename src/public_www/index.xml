@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Johnny Lee&#39;s Personal Website on Johnny Lee</title>
+    <title>Johnny Lee</title>
     <link>http://johnnyclee.com/</link>
-    <description>Recent content in Johnny Lee&#39;s Personal Website on Johnny Lee</description>
+    <description>Recent content on Johnny Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
@@ -57,21 +57,12 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About me</title>
-      <link>http://johnnyclee.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://johnnyclee.com/about/</guid>
-      <description>Find me on LinkedIn.</description>
-    </item>
-    
-    <item>
       <title>Error</title>
       <link>http://johnnyclee.com/error.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://johnnyclee.com/error.html</guid>
-      <description></description>
+      <description>Sorry! Something went wrong&amp;hellip; Return to the homepage.</description>
     </item>
     
   </channel>

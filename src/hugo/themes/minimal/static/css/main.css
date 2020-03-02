@@ -93,8 +93,9 @@ a:hover {
 /* Navigation icons */
 
 .navbar-icon {
-    font-size: 125%;
+    font-size: 5vmin;
     display: inline-block !important;
+    margin: 9px 14px 0 0;
 }
 
 /* Colored borders at top/bottom of page */
