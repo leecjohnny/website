@@ -3,3 +3,11 @@
   Override this in your site to insert code just after the opening <body> tag.
   For example, to install an analytics tracking package.
 -->
+{{ if .Site.GoogleAnalytics }}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id={{ .Site.GoogleAnalytics }}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+{{ end }}

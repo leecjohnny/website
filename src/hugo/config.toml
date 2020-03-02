@@ -2,7 +2,7 @@ baseURL = "http://johnnyclee.com/"
 languageCode = "en-us"
 title = "Johnny Lee"
 theme = "minimal"
-googleAnalytics = "UA-159362155-1"
+googleAnalytics = "GTM-5P5SCH7"
 publishDir = "../public_www/"
 
 [params]
