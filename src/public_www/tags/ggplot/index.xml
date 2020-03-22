@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Johnny Lee</title>
-    <link>http://johnnyclee.com/</link>
-    <description>Recent content on Johnny Lee</description>
+    <title>ggplot on Johnny Lee</title>
+    <link>http://johnnyclee.com/tags/ggplot/</link>
+    <description>Recent content in ggplot on Johnny Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://johnnyclee.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://johnnyclee.com/tags/ggplot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>http://johnnyclee.com/projects/covid-19/</guid>
       <description>Help prevent the spread of COVID-19 The COVID-19 disease caused by the SARS-CoV-2 virus is a global humanitarian challenge.
  Please help flatten the curve by doing the five. Follow your local public health guidelines at the CDC. Stay informed at Google&amp;rsquo;s information hub.  Situation in the United States As an attempt to understand the trends of the virus so far, I have aggregated some public available data and visualized their general trends.</description>
-    </item>
-    
-    <item>
-      <title>Error</title>
-      <link>http://johnnyclee.com/error.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://johnnyclee.com/error.html</guid>
-      <description>Sorry! Something went wrong&amp;hellip; Return to the homepage.</description>
     </item>
     
   </channel>

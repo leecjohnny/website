@@ -3,19 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://johnnyclee.com/tags/coronavirus/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://johnnyclee.com/tags/covid-19/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://johnnyclee.com/projects/covid-19/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://johnnyclee.com/tags/ggplot/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://johnnyclee.com/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://johnnyclee.com/projects/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://johnnyclee.com/tags/r/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://johnnyclee.com/tags/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://johnnyclee.com/tags/tidyverse/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://johnnyclee.com/categories/</loc>
   </url>
   
   <url>
     <loc>http://johnnyclee.com/error.html</loc>
-  </url>
-  
-  <url>
-    <loc>http://johnnyclee.com/</loc>
-  </url>
-  
-  <url>
-    <loc>http://johnnyclee.com/tags/</loc>
   </url>
   
 </urlset>

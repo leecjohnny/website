@@ -6,9 +6,55 @@
     <description>Recent content in Tags on Johnny Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://johnnyclee.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>coronavirus</title>
+      <link>http://johnnyclee.com/tags/coronavirus/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://johnnyclee.com/tags/coronavirus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid-19</title>
+      <link>http://johnnyclee.com/tags/covid-19/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://johnnyclee.com/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggplot</title>
+      <link>http://johnnyclee.com/tags/ggplot/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://johnnyclee.com/tags/ggplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>http://johnnyclee.com/tags/r/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://johnnyclee.com/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>http://johnnyclee.com/tags/tidyverse/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://johnnyclee.com/tags/tidyverse/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
